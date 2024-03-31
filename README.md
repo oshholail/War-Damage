@@ -2,6 +2,9 @@
   <b>Monitoring war damage using satellite dada and artificial intelligence</b><br>
 </h1>
 
+## Description
+
+War-related urban destruction constitutes a significant global concern, affecting the environment, social fabric, and urban planning. The impacts on complex urban morphologies during conflicts, characterized by different levels of destruction, remain inadequately understood. Here we present how deep learning, integrated with very high-resolution satellite imagery, enables near real-time detection of explosions and evaluation of different building damage levels in an active conflict zones.
 
 ## Requirements
 
