@@ -1,4 +1,5 @@
-# War-Damage
+# Monitoring war damage using satellite dada and artificial intelligence
 
-Picterra
-GitHub https://github.com/Picterra
+
+## References
+- [Picterra](https://github.com/Picterra)
