@@ -13,5 +13,13 @@
 [![Python-SNAPPY 8.0](https://img.shields.io/badge/PythonSNAPPY-8.0-blue.svg)](https://senbox.atlassian.net/wiki/spaces/SNAP/pages/50855941/Configure+Python+to+use+the+SNAP-Python+snappy+interface)
 
 
+### 🔭 Baselines <a name="baselines"></a>
+- :open_book:	:open_book:	 :open_book: Baseline [[here](https://github.com/DIUx-xView/xView2_baseline)]
+
 ## References
 - [Picterra](https://github.com/Picterra)
+- [QGIS](https://www.qgis.org/en/site/)
+- [GADM](https://gadm.org/download_country_v2.html)
+- [OSM](https://data.nextgis.com/en/region/custom/base)
+- [XBD](https://xview2.org/dataset)
+- [UNOSAT](https://unosat.org/products/3793)
