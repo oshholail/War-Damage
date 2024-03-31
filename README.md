@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Monitoring war damage using satellite dada and artificial intelligence</b><br>
+  <b>Monitoring war damage using satellite data and artificial intelligence</b><br>
 </h1>
 
 ## Description
