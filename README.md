@@ -15,8 +15,12 @@
 
 ### 🔭 Baselines <a name="baselines"></a>
 - :open_book:	:open_book:	 :open_book: Baseline [[here](https://github.com/DIUx-xView/xView2_baseline)]
-
+- :open_book:	:open_book:	 :open_book: AFDE-Net [[here](https://ieeexplore.ieee.org/abstract/document/10145434)]
+- :open_book:	:open_book:	 :open_book: U-Net [[here](https://ieeexplore.ieee.org/abstract/document/9324600)]
+- :open_book:	:open_book:	 :open_book: MS4D-Net [[here](https://www.mdpi.com/2072-4292/15/2/478)]
+  
 ## References
+- [ScienceNet](https://news.sciencenet.cn/sbhtmlnews/2024/2/378303.shtm)
 - [Picterra](https://github.com/Picterra)
 - [QGIS](https://www.qgis.org/en/site/)
 - [GADM](https://gadm.org/download_country_v2.html)
